@@ -1,24 +1,36 @@
 +++
 title = "Bookshelf"
-date = 1716240134
+date = 1738647783
 draft = false
 +++
 
 ## Current Reads
-* *Operating Systems: Three Easy Pieces* (Arpaci-Dusseau and Arpaci-Dusseau)
+
+| Title | Author | Rating | Notes |
+| --- | --- | --- | --- |
+| *Concrete Mathematics* | Knuth, Patashnik, Graham | ?/5 | Hard. |
 
 ## Completed
-* *Modern Compiler Implementation in Java 2nd Edition* (Appel)
-    * Rating: 4.5/5
-    * Completed: Yes
-    * Notes:
-        * Easy to understand!
-        * Enjoyed the humor.
-        * Skipped a few chapters from the advanced section.
 
-## Future Reads
-* *Computer Architecture: A Quantitative Approach* (Hennessy and Patterson)
-* *Types and Programming Languages* (Pierce)
-* *Designing Data Intensive Applications* (Kleppmann)
+| Title | Author | Rating | Notes |
+| --- | --- | --- | --- |
+| *Modern Compiler Implementation in Java (2nd Ed.)* | Appel | 4.75/5 | Funny. |
+| *Operating Systems: Three Easy Pieces* | Arpaci-Dusseau and Arpaci-Dusseau | 4/5 | Intuitive. |
 
-## Paper Dump
+
+## Books I Want To Read (when I get the time...)
+
+| Title | Author | Notes |
+| --- | --- | --- |
+| *Computer Architecture: A Quantitative Approach* | Hennessy and Patterson| Can't wait to learn about CAD :p |
+| *Types and Programming Languages* | Pierce | Monads are monoids in the category of endofunctors? |
+| *Designing Data Intensive Applications* | Kleppmann | I feel like everyone reads this book... |
+| *Principles of Mathematical Analysis* | Rudin | I sure hope the analyis is real... |
+
+## Blogs I Read 2-3 Articles From and Thought Were Cool
+
+| Title | Notes |
+| --- | --- |
+| [Matklad](https://matklad.github.io/) | Helped me understand Pratt Parsing! |
+| [The Old New Thing](https://devblogs.microsoft.com/oldnewthing/) | Weird C++ Rabbithole ==> The Old New Thing |
+| [Rigtorp](https://rigtorp.se/) | Atomics + Parallelism stuff |

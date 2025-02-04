@@ -1,19 +1,29 @@
 +++
 title = "About"
-date = 1716240134
+date = 1738647783
 draft = false
 +++
 
-Currently pursuing my bachelors in computer science and economics at UIUC. <br>
-
-Trying to focus on math, compilers, systems, and whatever catches my eye :) <br>
-
-Enjoys biking, cooking, and brazilian jiujitsu. 
+## Quick Facts
+* Computer Science and Economics Major @ UIUC
+* Compilers, Parallel Programming, and (hopefully) Distributed Systems
+* Wishing for an excuse to use Rust over C++
 
 ## Work Experience
 
-* Citadel LLC (New York, Summer 24)
-* Roblox (San Mateo, Fall 23)
-* Google (Remote, Summer 23)
+| Company | Season |
+| --- | --- |
+| Jump Trading | S25 |
+| Citadel LLC  | S24 |
+| Roblox | F23 | 
+| Google | S23 |
 
-**Feel free to contact me at:** andyluo918(at)gmail(dot)com
+## Projects
+
+| Name | Description | Blog Post |
+| ---  | --- | --- |
+| [Vial](https://github.com/andyluo03/Vial) | Async/Await framework using C++20 Coroutines | WIP |
+| [Databox](https://github.com/andyluo03/databox) | GPU-Accelerated Dataframe Library | WIP |
+| [Brick](https://github.com/andyluo03/brick) | Epoll-based HTTP Server | WIP |
+
+Contact me at andyluo918(at)gmail(dot)com.
