@@ -2,6 +2,7 @@
 title = "Bookshelf"
 date = 1738647783
 draft = false
+disqus = false
 +++
 
 ## Current Reads

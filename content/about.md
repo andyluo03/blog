@@ -2,6 +2,7 @@
 title = "About"
 date = 1738647783
 draft = false
+disqus = false
 +++
 
 ## Quick Facts
